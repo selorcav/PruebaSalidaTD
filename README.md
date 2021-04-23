@@ -22,3 +22,10 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+## App Preview
+
+Vue and vuetify were used for this project
+
+![alt text](https://github.com/selorcav/PruebaSalidaTD/blob/master/preview.png)
